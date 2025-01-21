@@ -53,4 +53,4 @@ Provide data-driven recommendations to improve marketing strategies and revenue 
 * Visualization and reporting of A/B test results.
 * Decision-making based on statistical evidence.
 
-🔗 Project Link: 
+🔗 Project Link:  https://github.com/Jeduardocastel/7.-A-B-Experiment/blob/main/project_10.ipynb
