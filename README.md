@@ -34,6 +34,15 @@ Data for A/B Test Analysis
 Note:
 Before analysis, the data was carefully preprocessed to identify and handle potential issues such as visitors appearing in both test groups or incorrect data entries.
 
+## 📊 Project Results  
+
+### 📈 Key Findings from the A/B Test  
+- **Group B showed a significant advantage in conversion rate**, with a **17% increase** compared to Group A. This suggests that the changes tested in this group positively impacted the number of users completing a purchase.  
+- **No significant difference was observed in the average order size**. In fact, Group B had **2.8% lower** average order value compared to Group A. This indicates that while the conversion rate improved, the transaction value did not show a clear increase.  
+
+### 🧐 Recommendations  
+Since Group B showed an **increase in conversion** but not in order size, it is recommended to **continue the test** to collect more data and assess whether Group B can sustain or improve its performance in both metrics.  
+
 ## 🎯 Key Analysis Goals
 Prioritize hypotheses using ICE and RICE frameworks.
 Compare conversion rates, revenue, and other key metrics between test groups.
